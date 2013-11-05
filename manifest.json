@@ -1,0 +1,14 @@
+{
+  "name": "Generador de RUT Chileno para desarrolladores",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "Generador de RUT Chileno copiandolo para pegar donde sea.",
+  "browser_action": {
+    "default_title": "Generado de RUT Chileno para desarrolladores",
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "http://misalabs.com/"
+  ]
+}
